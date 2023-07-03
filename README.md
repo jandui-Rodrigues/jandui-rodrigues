@@ -3,8 +3,8 @@
 *Sou Jandui rodrigues neto* ⚡⚡⚡
 
 
-- 🤓 Estudante de Progamaçao e da Vida, procuro melhorar a cada dia e situaçao.
-- 🧑‍💻 Tenho Noçoes em HTML | CSS | JS
+- 🤓 Estudante de Front-End na <a href="https://www.betrybe.com/">Trybe</a>
+- 🧑‍💻  HTML | CSS | JS | React.js | Jest |
 - 👋 Gosto de colaboar e estou sempre procurando pessoas dispostas a me ajudar.
 - 🤔 I’m looking for help with ...
 - 💬 Pode falar comigo... oque quiser 😄
