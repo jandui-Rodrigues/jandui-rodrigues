@@ -1,8 +1,8 @@
 ### Bem vindo ao Meu Github 😄
 
-*Sou Jandui rodrigues*, De campina Grande PB, Desenvolvedor-web com foco em Front-end ⚡⚡⚡
+*Sou Jandui rodrigues*, De campina Grande PB, Desenvolvedor Full-Stack com foco em Front-end ⚡⚡⚡
 
-<h2 style="background-color: red;">Sobre min</h2>
+<h2 style="background-color: red;">Sobre mim</h2>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/982810/screenshots/4916063/my_working_desktop_animation.gif" width=50% />
 <br>
 
@@ -26,7 +26,7 @@
     <tr>
       <td align="center">
         <strong>
-          <em>Linguages</em>
+          <em>Linguagens</em>
         </strong>
       </td>
       <td width="80px" align="center">
