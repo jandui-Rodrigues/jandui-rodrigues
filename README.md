@@ -116,7 +116,7 @@
 </ul>
 <br>
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jandui-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jandui-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandui-rodrigues&layout=compact&langs_count=10&theme=tokyonight"/>
 <br>
 <br>
