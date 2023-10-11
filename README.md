@@ -1,16 +1,15 @@
 ### Bem vindo ao Meu Github 😄
 
-*Sou Jandui rodrigues*, De campina Grande PB, Desenvolvedor Full-Stack com foco em Front-end ⚡⚡⚡
+*Sou Jandui rodrigues*, De campina Grande PB, Desenvolvedor Full-Stack⚡⚡⚡
 
 <h2 style="background-color: red;">Sobre mim</h2>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/982810/screenshots/4916063/my_working_desktop_animation.gif" width=50% />
 <br>
 
 
-- 👨‍💻  Sou um desenvolvedor Front-End, ultilizo o <a href="https://react.dev/">React ⚛️</a> uma biblioteca <a href="https://www.javascript.com/"> JavaScript 🚀</a> de código aberto com foco em criar interfaces de usuário em páginas web. Mantida Facebook, Instagram, outras grandes empresas e uma comunidade de Devs, Alem de outras bibliotecas referentes ao react como redux e React-Router.
+- 👨‍💻  Sou um desenvolvedor Web, ultilizo o <a href="https://react.dev/">React ⚛️</a> uma biblioteca <a href="https://www.javascript.com/"> JavaScript 🚀</a> de código aberto com foco em criar interfaces de usuário em páginas web. Mantida Facebook, Instagram, outras grandes empresas e uma comunidade de Devs, Alem de outras bibliotecas referentes ao react como redux e React-Router.Mas tenho como Express como uma lib Secundaria para diversos projetos meus.
   
-- 📚  Estudo para ser um Dev Full-stack na Escola <a href="https://www.betrybe.com/">Trybe  💚</a>, com foco em atuar na area de Front-End, pois gosto de ver oque estou fazendo é oque irei "servir aos meus clientes".
-<p></p>
+- 📚  Estudo para ser um Dev Full-stack na Escola <a href="https://www.betrybe.com/">Trybe  💚</a>, com foco em atuar como Full-Stack,tenho interesse nessa pois desejo ver como funciona ambos os lados do desenvolvimento de uma aplicação.
 
 <br>
 <br>
@@ -34,6 +33,10 @@
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       </td>
       <td width="80px" align="center">
+        <span><strong>MySQL</strong></span><br>
+        <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+      </td>
+      <td width="80px" align="center">
         <span><strong>CSS</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </td>
@@ -41,7 +44,13 @@
         <span><strong>Javascript</strong></span><br>
         <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       </td>
-      <td>
+      <td width="80px" align="center">
+        <span><strong>Docker</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>TypeScript</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
       </td>
     </tr>
     <tr >
@@ -53,6 +62,14 @@
       <td width="80px" align="center">
         <span><strong>React</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Express</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Sequelize</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>Jest</strong></span><br>
@@ -89,6 +106,10 @@
         <span><strong>NPM</strong></span><br>
         <img height="32px" src="https://cdn.cdnlogo.com/logos/n/45/npm.svg">
       </td>
+      <td width="80px" align="center">
+        <span><strong>Trello</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -116,7 +137,7 @@
 </ul>
 <br>
 <div align="center">
-<!--   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jandui-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=jandui-rodrigues&show_icons=true&theme=tokyonight"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandui-rodrigues&layout=compact&langs_count=10&theme=tokyonight"/>
 <br>
 <br>
